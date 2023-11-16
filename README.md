@@ -1,4 +1,4 @@
-# MySQL Project: Invoicing and World Database
+# MySQL Assignment: Invoicing and World Database
 
 ## Introduction:
 Explore the intricacies of MySQL with the Invoicing Database project. This includes SQL scripts for querying customers, discount factors, and expressions, employing WHERE, ORDER BY, and LIMIT clauses. The project also features an Entity-Relationship Diagram (EER) illustrating table relationships and descriptions of primary and foreign keys.
